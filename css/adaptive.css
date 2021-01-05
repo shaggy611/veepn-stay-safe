@@ -355,7 +355,7 @@
 
 }
 
-@media (min-height: 736px) and (max-height: 800px) {
+@media only screen and (min-height: 736px) and (max-height: 800px) {
     .stay-safe {
         height: 736px;
         background: url(/img/main-screen-logo-mobile.png);
